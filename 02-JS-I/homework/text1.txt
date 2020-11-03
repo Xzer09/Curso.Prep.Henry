@@ -1,0 +1,9 @@
+Variables: es un indicador de memoria, donde se puede guardar cualquier tipo de informacion(String, enteros, object, etc)
+
+String: Un tipo de dato que guarda informacion como texto
+
+Funciones: es una secuencia de operaciones encapsuladas
+
+Declaraciones: Identificar una comparacion entre dos variables
+
+Valores boleanos: Valores que indican Falso o Verdadero
