@@ -1,0 +1,3 @@
+for: ciclo limitado a la cantidad de veces que quieras repetirlo
+
+`&&`, `||`, `!`: Operaciones logicas de las tablas de verdad
