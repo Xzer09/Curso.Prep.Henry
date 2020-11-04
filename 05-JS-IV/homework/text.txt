@@ -1,0 +1,9 @@
+Objetos: Es un conjunto de atributos que pueden ser llamados directamente
+
+Propiedades: Una variable dentro dde un objeto
+
+Metodos: Un conjunto de instrucciones
+
+Bucle 'for ... in': Es un ciclo en la cual va recorriendo una rista u objeto
+
+Notación de puntos vs notación de corchetes: Practicamente son lo mismo, solo que uno se llama a la posicion agregando un punto, mientras que el otro se llama a la posiciones escribiendolo en corchetes
