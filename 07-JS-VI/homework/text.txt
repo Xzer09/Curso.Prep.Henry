@@ -1,0 +1,1 @@
+Callback = Es la forma de llamar a una funcion en especifico con un dato diferente
