@@ -1,0 +1,3 @@
+Prototipe: son propiedades preconstruidas que se guardan en una clase, para luego poder usarlas en cualquier objeto
+
+Contructor: Es un metodo que nos permite crear un objeto
