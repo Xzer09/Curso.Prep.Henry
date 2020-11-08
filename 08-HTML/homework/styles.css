@@ -15,17 +15,18 @@ img{
   width: 400px;
 }
 
-div{
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #thirdDiv{
   height: 600px;
   width: 500px;
   background: rgb(87, 153, 194);
   padding: 50px;
   border: black 2px solid;
+}
+
+.flex-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #spanId{
