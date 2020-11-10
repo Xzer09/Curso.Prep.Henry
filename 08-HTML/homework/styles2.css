@@ -1,0 +1,49 @@
+html{
+    background-color: rgb(110, 213, 245);
+}
+
+.titulo{
+    text-align: center;
+}
+
+img{
+    height: 300px; 
+    margin-right: 30px;
+    border:  black 2px solid;
+}
+
+p{
+    font-size: 20px;
+}
+
+.foto{
+    float: right;
+}
+
+strong{
+    font-size: 20px;
+}
+
+.caracteristica{
+    width: 200px;
+    text-align: center;
+}
+
+.descripcion{
+    border-left: black 3px solid;
+}
+
+.descripcionLaboral{
+    vertical-align: middle;
+    border-left: black 3px solid;
+}
+
+table{
+    margin-left: 30px;
+    border-collapse: collapse;
+}
+
+td{
+    vertical-align: top;
+    padding-left: 20px;
+}
