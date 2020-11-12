@@ -1,49 +1,58 @@
-html{
-    background-color: rgb(110, 213, 245);
+header {
+    background-color: chartreuse;
+    display: inline-block;
 }
 
-.titulo{
+.titulo {
     text-align: center;
+    display: inline-block
 }
 
-img{
-    height: 300px; 
+.descripcionPersonal {
+    width: 80%;
+    display: inline-block;
+}
+
+.foto {
+    display: inline-block;
+    position: absolute;
+    top: 2%;
+    right: 5%;
+}
+
+img {
+    height: 200px;
     margin-right: 30px;
-    border:  black 2px solid;
+    border: black 2px solid;
 }
 
-p{
+p {
     font-size: 20px;
 }
 
-.foto{
-    float: right;
-}
-
-strong{
+strong {
     font-size: 20px;
 }
 
-.caracteristica{
+.caracteristica {
     width: 200px;
     text-align: center;
 }
 
-.descripcion{
+.descripcion {
     border-left: black 3px solid;
 }
 
-.descripcionLaboral{
-    vertical-align: middle;
+.descripcionLaboral {
     border-left: black 3px solid;
 }
 
-table{
+table {
     margin-left: 30px;
     border-collapse: collapse;
 }
 
-td{
+td {
     vertical-align: top;
     padding-left: 20px;
 }
